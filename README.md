@@ -65,6 +65,10 @@ O relatório inclui:
 - Tabela completa das 38 rodadas
 - Filtros por mês, mando de campo e adversário
 
+## Resultado final
+
+![Dashboard Palmeiras 2022](./assets/dashboard.png)
+
 ## Fontes dos dados
 
 - Resultados, público e renda: dados públicos de resultados da temporada
