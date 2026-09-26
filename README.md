@@ -1,4 +1,4 @@
-# Palmeiras 2022 — Análise da Campanha do Brasileirão
+# Palmeiras 2022 — Análise de Desempenho 
 
 Análise de dados da campanha do título do **Palmeiras no Campeonato Brasileiro Série A 2022**, do banco de dados ao dashboard: modelagem em **PostgreSQL** e visualização em **Power BI**.
 
